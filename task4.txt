@@ -10,12 +10,11 @@ var obj2 = {
   age: "5",
   name: "person 1"
 };
-    
-
-if(JSON.stringify(obj1) === JSON.stringify(obj2)){
+  if(JSON.stringify(obj1) === JSON.stringify(obj2)){
   console.log("TRUE")
-}else
-console.log("FALSE");
+  }else
+   console.log("FALSE");
+
 
 2) use the rest countries API and display all the country flage in console:
 ANSWER: 
